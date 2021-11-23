@@ -1,0 +1,17 @@
+C:\Users\jarno\source\repos\FireTabsNet5\Win32Interop.FireUxthemeNet5\bin\Debug\net5.0\Win32Interop.FireUxthemeNet5.deps.json
+C:\Users\jarno\source\repos\FireTabsNet5\Win32Interop.FireUxthemeNet5\bin\Debug\net5.0\Win32Interop.FireUxthemeNet5.dll
+C:\Users\jarno\source\repos\FireTabsNet5\Win32Interop.FireUxthemeNet5\bin\Debug\net5.0\ref\Win32Interop.FireUxthemeNet5.dll
+C:\Users\jarno\source\repos\FireTabsNet5\Win32Interop.FireUxthemeNet5\bin\Debug\net5.0\Win32Interop.FireUxthemeNet5.pdb
+C:\Users\jarno\source\repos\FireTabsNet5\Win32Interop.FireUxthemeNet5\bin\Debug\net5.0\Win32Interop.FireGdiNet5.dll
+C:\Users\jarno\source\repos\FireTabsNet5\Win32Interop.FireUxthemeNet5\bin\Debug\net5.0\Win32Interop.FireUserNet5.dll
+C:\Users\jarno\source\repos\FireTabsNet5\Win32Interop.FireUxthemeNet5\bin\Debug\net5.0\Win32Interop.FireGdiNet5.pdb
+C:\Users\jarno\source\repos\FireTabsNet5\Win32Interop.FireUxthemeNet5\bin\Debug\net5.0\Win32Interop.FireUserNet5.pdb
+C:\Users\jarno\source\repos\FireTabsNet5\Win32Interop.FireUxthemeNet5\obj\Debug\net5.0\Win32Interop.FireUxthemeNet5.csproj.AssemblyReference.cache
+C:\Users\jarno\source\repos\FireTabsNet5\Win32Interop.FireUxthemeNet5\obj\Debug\net5.0\Win32Interop.FireUxthemeNet5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarno\source\repos\FireTabsNet5\Win32Interop.FireUxthemeNet5\obj\Debug\net5.0\Win32Interop.FireUxthemeNet5.AssemblyInfoInputs.cache
+C:\Users\jarno\source\repos\FireTabsNet5\Win32Interop.FireUxthemeNet5\obj\Debug\net5.0\Win32Interop.FireUxthemeNet5.AssemblyInfo.cs
+C:\Users\jarno\source\repos\FireTabsNet5\Win32Interop.FireUxthemeNet5\obj\Debug\net5.0\Win32Interop.FireUxthemeNet5.csproj.CoreCompileInputs.cache
+C:\Users\jarno\source\repos\FireTabsNet5\Win32Interop.FireUxthemeNet5\obj\Debug\net5.0\Win32Interop.FireUxthemeNet5.csproj.CopyComplete
+C:\Users\jarno\source\repos\FireTabsNet5\Win32Interop.FireUxthemeNet5\obj\Debug\net5.0\Win32Interop.FireUxthemeNet5.dll
+C:\Users\jarno\source\repos\FireTabsNet5\Win32Interop.FireUxthemeNet5\obj\Debug\net5.0\ref\Win32Interop.FireUxthemeNet5.dll
+C:\Users\jarno\source\repos\FireTabsNet5\Win32Interop.FireUxthemeNet5\obj\Debug\net5.0\Win32Interop.FireUxthemeNet5.pdb

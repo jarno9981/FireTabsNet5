@@ -1,0 +1,14 @@
+C:\Users\jarno\source\repos\FireTabsNet5\FireTabsNet5\obj\x64\Debug\net5.0-windows\FireTabsNet5.csproj.AssemblyReference.cache
+C:\Users\jarno\source\repos\FireTabsNet5\FireTabsNet5\obj\x64\Debug\net5.0-windows\FireTabsNet5.Properties.Resources.resources
+C:\Users\jarno\source\repos\FireTabsNet5\FireTabsNet5\obj\x64\Debug\net5.0-windows\FireTabsNet5.csproj.GenerateResource.cache
+C:\Users\jarno\source\repos\FireTabsNet5\FireTabsNet5\obj\x64\Debug\net5.0-windows\FireTabsNet5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarno\source\repos\FireTabsNet5\FireTabsNet5\obj\x64\Debug\net5.0-windows\FireTabsNet5.AssemblyInfoInputs.cache
+C:\Users\jarno\source\repos\FireTabsNet5\FireTabsNet5\obj\x64\Debug\net5.0-windows\FireTabsNet5.AssemblyInfo.cs
+C:\Users\jarno\source\repos\FireTabsNet5\FireTabsNet5\obj\x64\Debug\net5.0-windows\FireTabsNet5.csproj.CoreCompileInputs.cache
+C:\Users\jarno\source\repos\FireTabsNet5\FireTabsNet5\bin\x64\Debug\net5.0-windows\FireTabsNet5.deps.json
+C:\Users\jarno\source\repos\FireTabsNet5\FireTabsNet5\bin\x64\Debug\net5.0-windows\FireTabsNet5.dll
+C:\Users\jarno\source\repos\FireTabsNet5\FireTabsNet5\bin\x64\Debug\net5.0-windows\ref\FireTabsNet5.dll
+C:\Users\jarno\source\repos\FireTabsNet5\FireTabsNet5\bin\x64\Debug\net5.0-windows\FireTabsNet5.pdb
+C:\Users\jarno\source\repos\FireTabsNet5\FireTabsNet5\obj\x64\Debug\net5.0-windows\FireTabsNet5.dll
+C:\Users\jarno\source\repos\FireTabsNet5\FireTabsNet5\obj\x64\Debug\net5.0-windows\ref\FireTabsNet5.dll
+C:\Users\jarno\source\repos\FireTabsNet5\FireTabsNet5\obj\x64\Debug\net5.0-windows\FireTabsNet5.pdb

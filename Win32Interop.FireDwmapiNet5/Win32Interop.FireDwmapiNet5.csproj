@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Version>0.0.0.1</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Win32Interop.FireUserNet5\Win32Interop.FireUserNet5.csproj" />
+    <ProjectReference Include="..\Win32Interop.FireUxthemeNet5\Win32Interop.FireUxthemeNet5.csproj" />
+  </ItemGroup>
+
+</Project>

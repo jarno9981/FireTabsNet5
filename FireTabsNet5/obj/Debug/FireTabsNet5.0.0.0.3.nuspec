@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FireTabsNet5</id>
+    <version>0.0.0.3</version>
+    <authors>FireTabsNet5</authors>
+    <icon>tab_32.png</icon>
+    <description>FireTabs For .Net 5  - ALPHA</description>
+    <releaseNotes>some small changes and bug fixes, please note still early build bug may appair reguraly</releaseNotes>
+    <copyright>TechFireX 2021</copyright>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="Fizzler" version="1.3.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft-WindowsAPICodePack-Core" version="1.1.4" exclude="Build,Analyzers" />
+        <dependency id="Svg" version="3.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Buffers" version="4.5.1" exclude="Build,Analyzers" />
+        <dependency id="System.Memory" version="4.5.4" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime.CompilerServices.Unsafe" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.ValueTuple" version="4.5.0" exclude="Build,Analyzers" />
+        <dependency id="Win32Interop.FireDwmapiNet5" version="0.0.0.1" exclude="Build,Analyzers" />
+        <dependency id="Win32Interop.FireGdiNet5" version="0.0.1" exclude="Build,Analyzers" />
+        <dependency id="Win32Interop.FireKernelNet5" version="0.0.1" exclude="Build,Analyzers" />
+        <dependency id="Win32Interop.FireUserNet5" version="0.0.1" exclude="Build,Analyzers" />
+        <dependency id="Win32Interop.FireUxthemeNet5" version="0.0.0.1" exclude="Build,Analyzers" />
+        <dependency id="WinCopies.WindowsAPICodePack.Shell" version="2.10.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\jarno\source\repos\FireTabsNet5\FireTabsNet5\bin\x64\Debug\net5.0-windows\FireTabsNet5.dll" target="lib\net5.0-windows7.0\FireTabsNet5.dll" />
+    <file src="C:\Users\jarno\Pictures\tab_32.png" target="tab_32.png" />
+  </files>
+</package>

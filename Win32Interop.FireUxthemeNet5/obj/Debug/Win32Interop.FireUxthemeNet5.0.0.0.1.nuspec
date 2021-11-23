@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Win32Interop.FireUxthemeNet5</id>
+    <version>0.0.0.1</version>
+    <authors>Win32Interop.FireUxthemeNet5</authors>
+    <description>Win32Interop For FireTabs .Net5</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Win32Interop.FireGdiNet5" version="0.0.1" exclude="Build,Analyzers" />
+        <dependency id="Win32Interop.FireUserNet5" version="0.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\jarno\source\repos\FireTabsNet5\Win32Interop.FireUxthemeNet5\bin\Debug\net5.0\Win32Interop.FireUxthemeNet5.dll" target="lib\net5.0\Win32Interop.FireUxthemeNet5.dll" />
+  </files>
+</package>

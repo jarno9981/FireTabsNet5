@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "W7czr4RMxThtDq0fbfpVzCxnGSxcONqRdSR0KaL2Z86entONj+uuS40OIDAu2crnW+y70Fc9YGWGVkBYfs77tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jarno\\source\\repos\\FireTabsNet5\\Win32Interop.FireDwmapiNet5\\Win32Interop.FireDwmapiNet5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jarno\\.nuget\\packages\\win32interop.firegdinet5\\0.0.1\\win32interop.firegdinet5.0.0.1.nupkg.sha512",
+    "C:\\Users\\jarno\\.nuget\\packages\\win32interop.fireusernet5\\0.0.1\\win32interop.fireusernet5.0.0.1.nupkg.sha512",
+    "C:\\Users\\jarno\\.nuget\\packages\\win32interop.fireuxthemenet5\\0.0.0.1\\win32interop.fireuxthemenet5.0.0.0.1.nupkg.sha512",
+    "C:\\Users\\jarno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jarno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jarno\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

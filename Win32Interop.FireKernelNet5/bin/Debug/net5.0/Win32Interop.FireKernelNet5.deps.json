@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Win32Interop.FireKernelNet5/0.0.1": {
+        "runtime": {
+          "Win32Interop.FireKernelNet5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Win32Interop.FireKernelNet5/0.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

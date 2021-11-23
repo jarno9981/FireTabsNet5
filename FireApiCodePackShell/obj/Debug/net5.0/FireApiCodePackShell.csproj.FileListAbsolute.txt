@@ -1,0 +1,7 @@
+C:\Users\jarno\source\repos\FireTabsNet5\FireApiCodePackShell\obj\Debug\net5.0\FireApiCodePackShell.csproj.AssemblyReference.cache
+C:\Users\jarno\source\repos\FireTabsNet5\FireApiCodePackShell\obj\Debug\net5.0\FireApiCodePackShell.Properties.Resources.resources
+C:\Users\jarno\source\repos\FireTabsNet5\FireApiCodePackShell\obj\Debug\net5.0\FireApiCodePackShell.csproj.GenerateResource.cache
+C:\Users\jarno\source\repos\FireTabsNet5\FireApiCodePackShell\obj\Debug\net5.0\FireApiCodePackShell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarno\source\repos\FireTabsNet5\FireApiCodePackShell\obj\Debug\net5.0\FireApiCodePackShell.AssemblyInfoInputs.cache
+C:\Users\jarno\source\repos\FireTabsNet5\FireApiCodePackShell\obj\Debug\net5.0\FireApiCodePackShell.AssemblyInfo.cs
+C:\Users\jarno\source\repos\FireTabsNet5\FireApiCodePackShell\obj\Debug\net5.0\FireApiCodePackShell.csproj.CoreCompileInputs.cache

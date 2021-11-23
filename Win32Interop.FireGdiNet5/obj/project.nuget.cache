@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7KEVXif/g+hlVtSAnTyqTTVtZGXaSE/oxJ83wDLVylnIe4Tq8eID92NvkAec/jJzcxIxCvD2O40xeeEfXQ8URQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jarno\\source\\repos\\FireTabsNet5\\Win32Interop.FireGdiNet5\\Win32Interop.FireGdiNet5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jarno\\.nuget\\packages\\win32interop.fireusernet5\\0.0.1\\win32interop.fireusernet5.0.0.1.nupkg.sha512",
+    "C:\\Users\\jarno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jarno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jarno\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
